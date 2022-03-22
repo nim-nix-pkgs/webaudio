@@ -9,7 +9,7 @@
   
   inputs.src-webaudio-master.flake = false;
   inputs.src-webaudio-master.owner = "ftsf";
-  inputs.src-webaudio-master.ref   = "refs/heads/master";
+  inputs.src-webaudio-master.ref   = "master";
   inputs.src-webaudio-master.repo  = "nim-webaudio";
   inputs.src-webaudio-master.type  = "github";
   
