@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652792175,
-        "narHash": "sha256-w4gC6QV1EL4IeL1kgAu9ZIghliM/ge2bZIHTCFBChMs=",
+        "lastModified": 1652797964,
+        "narHash": "sha256-agipfr3yuNfaz/9QfdPOohRZhFbTDFF4hwPeXSXC0Q8=",
         "owner": "nim-nix-pkgs",
         "repo": "webaudio",
-        "rev": "5b5194528c63ff498f8a39ab3da5c00052096664",
+        "rev": "ad9e939bac49fb0929b5393b6ad7cf4a530b480b",
         "type": "github"
       },
       "original": {
