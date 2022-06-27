@@ -23,8 +23,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
@@ -68,11 +69,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696917,
-        "narHash": "sha256-4F0LwHr2vgrBBnjFIspvILS2NAKSP7iQEpR5Zc/pulE=",
+        "lastModified": 1653702515,
+        "narHash": "sha256-MMhW6kYANk4SL9bEnQckVCIgDo3nkg+9/N8HpHX73YU=",
         "owner": "nim-nix-pkgs",
         "repo": "webaudio",
-        "rev": "b0a47863b5a1af69de13689c22c5766b44164c05",
+        "rev": "374bef1ac90ce8a44e07899e83c26a9d626fa790",
         "type": "github"
       },
       "original": {
